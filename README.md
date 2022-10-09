@@ -215,4 +215,4 @@ sudo systemctl enable --now pgsw
 ```
 
 ## Credits
-* [Christian Deacon](https://github.com/gamemann) - Creator.
+* [CharmingDev](https://github.com/charmingdev777) - Creator.
