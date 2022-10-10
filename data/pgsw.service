@@ -1,0 +1,11 @@
+[Unit]
+Description=Pterodactyl Game Server Watch (PGSW).
+After=network-online.target
+Requires=network-online.target
+
+[Service]
+ExecStart=/usr/bin/pgsw
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
